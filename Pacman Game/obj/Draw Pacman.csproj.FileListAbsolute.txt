@@ -1,0 +1,32 @@
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Form1.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Properties.Resources.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.csproj.GenerateResource.Cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\Draw_Pacman.Form1.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\Draw Pacman.csproj.GenerateResource.Cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\bin\Release\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\bin\Release\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\Draw_Pacman.Properties.Resources.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Draw Pacman\Draw Pacman\obj\Release\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Form1.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Properties.Resources.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Uri\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.csproj.GenerateResource.Cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\bin\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Form1.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw_Pacman.Properties.Resources.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman\Draw Pacman\obj\Debug\Draw Pacman.csproj.GenerateResource.Cache

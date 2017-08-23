@@ -1,0 +1,175 @@
+﻿<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B7529B17-A627-464A-9C02-95A286A8A253}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pacman_Game</RootNamespace>
+    <AssemblyName>Pacman_Game</AssemblyName>
+    <ApplicationIcon>Pacman.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGame.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGame.Designer.cs">
+      <DependentUpon>FormGame.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHelp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHelp.Designer.cs">
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHighScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHighScore.Designer.cs">
+      <DependentUpon>FormHighScore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormME.Designer.cs">
+      <DependentUpon>FormME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSplash.Designer.cs">
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ghost.cs" />
+    <Compile Include="HighScores.cs" />
+    <Compile Include="Pacman.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormMain.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGame.resx">
+      <DependentUpon>FormGame.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHelp.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHelp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHighScore.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormHighScore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormME.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormME.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSplash.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FormSplash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cherry.JPG" />
+    <None Include="Resources\BlueGhostU.JPG" />
+    <None Include="Resources\BlueGhostC.JPG" />
+    <None Include="Resources\BlueGhostD.JPG" />
+    <None Include="Resources\BlueGhostL.JPG" />
+    <None Include="Resources\BlueGhostR.JPG" />
+    <Content Include="Pacman.ico" />
+    <Content Include="Resources\Dot.JPG" />
+    <None Include="Resources\PacmanLeft.JPG" />
+    <None Include="Resources\PacmanDown.JPG" />
+    <None Include="Resources\Helppic1.JPG" />
+    <None Include="Resources\keyboard_arrows.JPG" />
+    <None Include="Resources\Helppic2.JPG" />
+    <None Include="Resources\Mapedit.JPG" />
+    <None Include="Resources\GreenGhostD.JPG" />
+    <None Include="Resources\GreenGhostL.JPG" />
+    <None Include="Resources\GreenGhostR.JPG" />
+    <None Include="Resources\GreenGhostU.JPG" />
+    <None Include="Resources\GreenGhostC.JPG" />
+    <Content Include="Resources\PacmanRight.JPG" />
+    <None Include="Resources\TheBlueGhost.JPG" />
+    <None Include="Resources\YellowGhostC.JPG" />
+    <None Include="Resources\RedGhostC.JPG" />
+    <None Include="Resources\PurpleGhostC.JPG" />
+    <None Include="Resources\YellowGhostR.JPG" />
+    <None Include="Resources\YellowGhostL.JPG" />
+    <None Include="Resources\YellowGhostD.JPG" />
+    <None Include="Resources\RedGhostU.JPG" />
+    <None Include="Resources\RedGhostR.JPG" />
+    <None Include="Resources\RedGhostL.JPG" />
+    <None Include="Resources\RedGhostD.JPG" />
+    <None Include="Resources\PurpleGhostU.JPG" />
+    <None Include="Resources\PurpleGhostR.JPG" />
+    <None Include="Resources\PurpleGhostL.JPG" />
+    <None Include="Resources\PurpleGhostD.JPG" />
+    <None Include="Resources\YellowGhostU.JPG" />
+    <None Include="Resources\Points.JPG" />
+    <None Include="Resources\pacman_skull.jpg" />
+    <None Include="Resources\PacmanUp.JPG" />
+    <None Include="Resources\SuperDot.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

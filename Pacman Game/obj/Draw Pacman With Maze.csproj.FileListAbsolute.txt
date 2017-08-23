@@ -1,0 +1,36 @@
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.exe
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.pdb
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Form1.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Properties.Resources.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman With Maze.csproj.GenerateResource.Cache
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.exe
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.pdb
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.exe
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.pdb
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Form1.resources
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Properties.Resources.resources
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman With Maze.csproj.GenerateResource.Cache
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.exe
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.pdb
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.exe
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.pdb
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Form1.resources
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Properties.Resources.resources
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman With Maze.csproj.GenerateResource.Cache
+D:\Projects\Uri\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.FormHighScore.resources
+E:\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.FormHighScore.resources
+C:\Documents and Settings\Loya\My Documents\Visual Studio 2005\C#\Project\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.FormHighScore.resources
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.exe
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman.pdb
+E:\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.exe
+E:\Draw Pacman With Maze\Draw Pacman With Maze\bin\Debug\Draw Pacman.pdb
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\ResolveAssemblyReference.cache
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Form1.resources
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.FormHighScore.resources
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw_Pacman.Properties.Resources.resources
+E:\Draw Pacman With Maze\Draw Pacman With Maze\obj\Debug\Draw Pacman With Maze.csproj.GenerateResource.Cache
